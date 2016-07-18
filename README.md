@@ -1,6 +1,6 @@
 # Elective Management
 
-This project helps students to register themselves for the various electives offered by the computer science department. Mainly concerned for 5th semester students and above as only they have the option as selecting electives. Students can login using their SIS login and password. Four preferences of each student are taken, and the available subject is allotted to each student on first come first serve basis. Subject allotment to each student is managed by electives coordinator, and the students will be notified through their SIS accounts.
+This project helps students to register for electives. Based on the preferences as selected by students, the available subject is allotted to each student on first come first serve basis. Subject allotment to each student is managed by electives coordinator, and the students will be notified through their SIS accounts.
 
 Elective management is an efficient way to allot students various department elective subjects. This is applicable only for students of 5th semester and above. Our database provides different views to students and electives coordinator. 
  
