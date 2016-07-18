@@ -16,6 +16,4 @@ Elective coordinator manages the content of the database and the allotment of su
 
 ## Algorithm
 
-Based on a first come first serve basis, in the first iteration, the first preference of a student is allotted, if a seat is available in a class, and left unassigned if not. In the second iteration, the second preference is checked, only if the student has still not been allotted a subject, and the second preference is allotted if a seat is available in that class. This process continues until all 4 preferences are checked or until all students are allotted subjects.
-
-If a student still has no subject allotted, the subject taken by the maximum number of students is assigned. If the student’s first preference cannot be allotted (i.e, limit of a class has been reached) then the second, third or fourth preference is allotted. If none of the choices as selected by the student matches the subjects offered, then the one selected by most students is assigned as a default.
+Based on a first come first serve basis, in the first iteration, the first preference of a student is allotted, if a seat is available in a class, and left unassigned if not. In the second iteration, the second preference is checked, only if the student has still not been allotted a subject, and the second preference is allotted if a seat is available in that class. This process continues until all 4 preferences are checked or until all students are allotted subjects.If a student still has no subject allotted, the subject taken by the maximum number of students is assigned as a default.
